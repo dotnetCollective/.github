@@ -5,8 +5,7 @@
  >> We solve the hardest problems so you don't have to.
  
  
- ![DotNetCollectiveMainImage](images/dotnetcollective3.jpg "DotNetCollective")
- 
+ ![DotNetCollectiveMainImage]([images/dotnetcollective3.jpg](https://github.com/dotnetCollective/.github/blob/main/images/dotnetcollective3.jpg "DotNetCollective") 
 
 ## License
 
